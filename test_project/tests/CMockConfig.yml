@@ -1,0 +1,8 @@
+# CMockConfig.yml
+:mock_path: 'mock'
+:include_path: '.'
+:src_path: '.'
+:header_path: '.'
+:output_path: 'mock'
+:unity_path: '../Unity-2.6.1/src'  # Adjust this path if necessary
+

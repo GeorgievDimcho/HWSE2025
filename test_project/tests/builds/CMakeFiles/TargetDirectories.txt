@@ -1,0 +1,3 @@
+/home/osi/Documents/fh/2025/HNSW2/test_projekt/tests/builds/CMakeFiles/tests_exec.dir
+/home/osi/Documents/fh/2025/HNSW2/test_projekt/tests/builds/CMakeFiles/edit_cache.dir
+/home/osi/Documents/fh/2025/HNSW2/test_projekt/tests/builds/CMakeFiles/rebuild_cache.dir

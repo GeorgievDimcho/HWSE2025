@@ -1,0 +1,1 @@
+gcc -I ./Unity-2.6.1/src -I ../inc test.c ../src/help.c ./Unity-2.6.1/src/unity.c -Wall -Wextra -Werror -o test -lm && ./test

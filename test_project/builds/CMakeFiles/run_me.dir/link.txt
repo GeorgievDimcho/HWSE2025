@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -lm -Wall -Werror -Wpedantic -Wextra -rdynamic CMakeFiles/run_me.dir/src/help.c.o CMakeFiles/run_me.dir/src/main.c.o -o run_me 

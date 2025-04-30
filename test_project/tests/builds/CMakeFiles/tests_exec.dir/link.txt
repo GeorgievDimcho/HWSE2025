@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -lm -Wall -Werror -Wpedantic -Wextra -rdynamic CMakeFiles/tests_exec.dir/home/osi/Documents/fh/2025/HNSW2/test_projekt/src/help.c.o "CMakeFiles/tests_exec.dir/Unity-2.6.1/src/unity.c.o" CMakeFiles/tests_exec.dir/test.c.o -o tests_exec 
