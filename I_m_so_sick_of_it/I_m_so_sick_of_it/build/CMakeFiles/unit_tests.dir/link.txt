@@ -1,1 +1,0 @@
-/usr/bin/cc --coverage CMakeFiles/unit_tests.dir/mocks/Mockdisplay_stuff.c.o CMakeFiles/unit_tests.dir/mocks/Mockfile_handling.c.o CMakeFiles/unit_tests.dir/vendor/Unity/src/unity.c.o CMakeFiles/unit_tests.dir/vendor/CMock/src/cmock.c.o CMakeFiles/unit_tests.dir/test/test_main.c.o -o unit_tests  libcar_management.a 

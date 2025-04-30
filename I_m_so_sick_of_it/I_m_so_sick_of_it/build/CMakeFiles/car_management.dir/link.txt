@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcar_management.a CMakeFiles/car_management.dir/src/data/file_handling.c.o CMakeFiles/car_management.dir/src/logic/student.c.o CMakeFiles/car_management.dir/src/presentation/display_stuff.c.o
-/usr/bin/ranlib libcar_management.a

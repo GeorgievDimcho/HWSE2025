@@ -1,4 +1,0 @@
-:plugins:
-  - expect
-  - expect_any_args
-  - callback
