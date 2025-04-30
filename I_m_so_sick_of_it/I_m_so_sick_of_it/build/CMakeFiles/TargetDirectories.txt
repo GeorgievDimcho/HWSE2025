@@ -1,0 +1,6 @@
+/home/osi/Documents/fh/2025/HNSW2/I_m_so_sick_of_it/I_m_so_sick_of_it/build/CMakeFiles/car_management.dir
+/home/osi/Documents/fh/2025/HNSW2/I_m_so_sick_of_it/I_m_so_sick_of_it/build/CMakeFiles/unit_tests.dir
+/home/osi/Documents/fh/2025/HNSW2/I_m_so_sick_of_it/I_m_so_sick_of_it/build/CMakeFiles/coverage.dir
+/home/osi/Documents/fh/2025/HNSW2/I_m_so_sick_of_it/I_m_so_sick_of_it/build/CMakeFiles/test.dir
+/home/osi/Documents/fh/2025/HNSW2/I_m_so_sick_of_it/I_m_so_sick_of_it/build/CMakeFiles/edit_cache.dir
+/home/osi/Documents/fh/2025/HNSW2/I_m_so_sick_of_it/I_m_so_sick_of_it/build/CMakeFiles/rebuild_cache.dir
